@@ -1,8 +1,9 @@
-# Node.js
+# Node.js Builds for Windows 7 <img src="./src/res/node.ico" width="48">
 
 Node.js is an open-source, cross-platform JavaScript runtime environment.
+This project is an unofficial backport of Node.js 16 to Windows 7.
 
-For information on using Node.js, see the [Node.js website][].
+For information on using Node.js, see the [Node.js website]().
 
 The Node.js project uses an [open governance model](./GOVERNANCE.md). The
 [OpenJS Foundation][] provides support for the project.
