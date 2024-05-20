@@ -1,6 +1,5 @@
 *.o
 bin/base64
-lib/config.h
 test/benchmark
 test/test_base64
 
