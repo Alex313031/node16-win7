@@ -248,7 +248,7 @@
             'FavorSizeOrSpeed': 1,          # /Ot, favor speed over size
             'InlineFunctionExpansion': 2,   # /Ob2, inline anything eligible
             'OmitFramePointers': 'true',
-            'Optimization': 2,              # /Ox, full optimization
+            'Optimization': 3,              # /Ox, almost full optimization
             'RuntimeLibrary': '<(MSVC_runtimeType)',
             'RuntimeTypeInfo': 'false',
           }

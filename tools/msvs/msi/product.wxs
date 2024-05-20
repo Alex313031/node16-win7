@@ -3,7 +3,7 @@
      xmlns:util="http://schemas.microsoft.com/wix/UtilExtension">
 
   <?define ProductName = "Node.js" ?>
-  <?define ProductDescription = "Node.js" ?>
+  <?define ProductDescription = "Node.js for Windows 7" ?>
   <?define ProductAuthor = "Node.js Foundation" ?>
 
   <?define RegistryKeyPath = "SOFTWARE\Node.js" ?>
