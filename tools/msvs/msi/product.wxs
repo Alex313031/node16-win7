@@ -4,7 +4,7 @@
 
   <?define ProductName = "Node.js" ?>
   <?define ProductDescription = "Node.js for Windows 7" ?>
-  <?define ProductAuthor = "Node.js Foundation" ?>
+  <?define ProductAuthor = "Alex313031" ?>
 
   <?define RegistryKeyPath = "SOFTWARE\Node.js" ?>
 
